@@ -1,4 +1,4 @@
-﻿# Uber_data_analytics
+
 
 # Uber_data_analytics
 
@@ -29,3 +29,4 @@ Even without reliable ratings, the cancellation data provides consistent and mea
 4 *Conclusion*
 
 This project highlights the importance of good data quality and the need for more reliable rating systems to accurately reflect user experiences.
+
